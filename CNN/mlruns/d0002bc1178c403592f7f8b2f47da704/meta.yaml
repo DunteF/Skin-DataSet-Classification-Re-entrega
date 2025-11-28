@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/frige/OneDrive/Desktop/ITBA/Redes%20Neuronales%20en%20Bio/skin-dataset-classification/mlruns/959100485937486105/d0002bc1178c403592f7f8b2f47da704/artifacts
+end_time: 1764292510594
+entry_point_name: ''
+experiment_id: '959100485937486105'
+lifecycle_stage: active
+run_id: d0002bc1178c403592f7f8b2f47da704
+run_name: shivering-shrimp-708
+run_uuid: d0002bc1178c403592f7f8b2f47da704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764292356157
+status: 3
+tags: []
+user_id: frige

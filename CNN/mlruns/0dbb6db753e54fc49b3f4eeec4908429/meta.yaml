@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/frige/OneDrive/Desktop/ITBA/Redes%20Neuronales%20en%20Bio/skin-dataset-classification/mlruns/959100485937486105/0dbb6db753e54fc49b3f4eeec4908429/artifacts
+end_time: 1764278564669
+entry_point_name: ''
+experiment_id: '959100485937486105'
+lifecycle_stage: active
+run_id: 0dbb6db753e54fc49b3f4eeec4908429
+run_name: blushing-croc-897
+run_uuid: 0dbb6db753e54fc49b3f4eeec4908429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764278116280
+status: 3
+tags: []
+user_id: frige

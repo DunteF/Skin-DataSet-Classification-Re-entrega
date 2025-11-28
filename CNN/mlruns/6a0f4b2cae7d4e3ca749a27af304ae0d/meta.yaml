@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/frige/OneDrive/Desktop/ITBA/Redes%20Neuronales%20en%20Bio/skin-dataset-classification/mlruns/959100485937486105/6a0f4b2cae7d4e3ca749a27af304ae0d/artifacts
+end_time: 1764276299237
+entry_point_name: ''
+experiment_id: '959100485937486105'
+lifecycle_stage: active
+run_id: 6a0f4b2cae7d4e3ca749a27af304ae0d
+run_name: gifted-trout-596
+run_uuid: 6a0f4b2cae7d4e3ca749a27af304ae0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764276175471
+status: 3
+tags: []
+user_id: frige

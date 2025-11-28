@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/frige/OneDrive/Desktop/ITBA/Redes%20Neuronales%20en%20Bio/skin-dataset-classification/mlruns/959100485937486105/a41d9108473144e0908fc3afa0a9cd87/artifacts
+end_time: 1764308661275
+entry_point_name: ''
+experiment_id: '959100485937486105'
+lifecycle_stage: active
+run_id: a41d9108473144e0908fc3afa0a9cd87
+run_name: suave-panda-316
+run_uuid: a41d9108473144e0908fc3afa0a9cd87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764308424742
+status: 3
+tags: []
+user_id: frige

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/frige/OneDrive/Desktop/ITBA/Redes%20Neuronales%20en%20Bio/skin-dataset-classification/mlruns/959100485937486105/b5b0ce08af05447aa25c5a6811f3d830/artifacts
+end_time: 1764288117301
+entry_point_name: ''
+experiment_id: '959100485937486105'
+lifecycle_stage: active
+run_id: b5b0ce08af05447aa25c5a6811f3d830
+run_name: blushing-stoat-271
+run_uuid: b5b0ce08af05447aa25c5a6811f3d830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764286948198
+status: 3
+tags: []
+user_id: frige

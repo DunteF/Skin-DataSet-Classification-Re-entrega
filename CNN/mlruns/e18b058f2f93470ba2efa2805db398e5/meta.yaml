@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/frige/OneDrive/Desktop/ITBA/Redes%20Neuronales%20en%20Bio/skin-dataset-classification/mlruns/959100485937486105/e18b058f2f93470ba2efa2805db398e5/artifacts
+end_time: 1764299875133
+entry_point_name: ''
+experiment_id: '959100485937486105'
+lifecycle_stage: active
+run_id: e18b058f2f93470ba2efa2805db398e5
+run_name: salty-carp-817
+run_uuid: e18b058f2f93470ba2efa2805db398e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764299349371
+status: 3
+tags: []
+user_id: frige

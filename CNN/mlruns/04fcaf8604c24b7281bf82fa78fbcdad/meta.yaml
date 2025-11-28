@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/frige/OneDrive/Desktop/ITBA/Redes%20Neuronales%20en%20Bio/skin-dataset-classification/mlruns/959100485937486105/04fcaf8604c24b7281bf82fa78fbcdad/artifacts
+end_time: 1764277029710
+entry_point_name: ''
+experiment_id: '959100485937486105'
+lifecycle_stage: active
+run_id: 04fcaf8604c24b7281bf82fa78fbcdad
+run_name: zealous-duck-147
+run_uuid: 04fcaf8604c24b7281bf82fa78fbcdad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764276894066
+status: 3
+tags: []
+user_id: frige

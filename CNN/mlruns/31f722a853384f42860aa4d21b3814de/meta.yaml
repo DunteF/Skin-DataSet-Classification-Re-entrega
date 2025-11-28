@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/frige/OneDrive/Desktop/ITBA/Redes%20Neuronales%20en%20Bio/skin-dataset-classification/mlruns/959100485937486105/31f722a853384f42860aa4d21b3814de/artifacts
+end_time: 1764311971787
+entry_point_name: ''
+experiment_id: '959100485937486105'
+lifecycle_stage: active
+run_id: 31f722a853384f42860aa4d21b3814de
+run_name: bustling-snail-963
+run_uuid: 31f722a853384f42860aa4d21b3814de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764311393141
+status: 3
+tags: []
+user_id: frige

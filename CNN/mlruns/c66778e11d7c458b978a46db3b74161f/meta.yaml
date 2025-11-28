@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/frige/OneDrive/Desktop/ITBA/Redes%20Neuronales%20en%20Bio/skin-dataset-classification/mlruns/959100485937486105/c66778e11d7c458b978a46db3b74161f/artifacts
+end_time: 1764290872555
+entry_point_name: ''
+experiment_id: '959100485937486105'
+lifecycle_stage: active
+run_id: c66778e11d7c458b978a46db3b74161f
+run_name: stately-sloth-753
+run_uuid: c66778e11d7c458b978a46db3b74161f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764290088395
+status: 3
+tags: []
+user_id: frige
