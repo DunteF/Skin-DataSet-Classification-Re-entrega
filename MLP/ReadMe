@@ -1,2 +1,4 @@
 Archivos correspondientes a  entrenamiento de Modelo Simple 1
-El archivo de 1_MOdelo_Simple es el mismo que en el directorio base, unicamente cambiado su path. Copiarlo de Collab dentro de la carpeta tampoco permite su correcta renderización.
+https://drive.google.com/drive/folders/1l7fp-55DDO6uRssrPElA1K_RsduX6Lvs?usp=sharing
+Carpeta de GoogleDrive con Archivo Collab usado para correr la notebook y ejecutar TensorBoard dentro del venv de Collab. 
+La carpeta contiene un archivo Google Docs con capturas de pantalla tomadas de TensorBoard para diferentes Runs. 
