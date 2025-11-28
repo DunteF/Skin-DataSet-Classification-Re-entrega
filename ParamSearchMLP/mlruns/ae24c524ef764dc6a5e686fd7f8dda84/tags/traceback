@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "C:\Users\frige\AppData\Local\Temp\ipykernel_24644\353320288.py", line 71, in <module>
+    with mlflow.start_run(run_name=run_name):
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\frige\miniconda3\envs\{env}\Lib\site-packages\mlflow\tracking\fluent.py", line 351, in start_run
+    raise Exception(
+Exception: Run with UUID ae24c524ef764dc6a5e686fd7f8dda84 is already active. To start a new run, first end the current run with mlflow.end_run(). To start a nested run, call start_run with nested=True

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/frige/OneDrive/Desktop/ITBA/Redes%20Neuronales%20en%20Bio/skin-dataset-classification/mlruns/959100485937486105/08b3a87ad16f4a27812779dee46ff264/artifacts
+end_time: 1764256881177
+entry_point_name: ''
+experiment_id: '959100485937486105'
+lifecycle_stage: active
+run_id: 08b3a87ad16f4a27812779dee46ff264
+run_name: IS64_BS64_LR0.0001_OPTSGD_HF0.5_VF0.5_RB0.5_DO0.1
+run_uuid: 08b3a87ad16f4a27812779dee46ff264
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764256734459
+status: 3
+tags: []
+user_id: frige
